@@ -19,7 +19,11 @@
 
 ## Nome dell'azienda
 
-* Tools Games
+* Misy Games
+
+# beta tesing
+
+
 
 ## Emoji
 
@@ -28,4 +32,4 @@
 * :tada:
 * :sparkles:
 * :smile:
-  
+* :🌍:Europe Italy Canada Australi united state  
