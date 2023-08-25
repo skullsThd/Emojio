@@ -5,7 +5,7 @@
 * Titolo: [Emojio]
 * Piattaforme: [PC]
 * Genere: [Giochi Basati su Emoji]
-* Data di rilascio: []
+* Data di rilascio: [Data imprevedibile 2025]
 * Prezzo: [Free]
 * Descrizione: []
 
